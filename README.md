@@ -18,9 +18,4 @@ This project demonstrates the end-to-end lifecycle of a machine learning model, 
 * **Data Manipulation:** Pandas, NumPy
 * **Frontend/Deployment:** Streamlit
 
-## ⚙️ Installation & Setup
 
-1. **Clone the repository**
-```bash
-git clone [https://github.com/vibhakar2007/dynamic-pricing-engine.git](https://github.com/vibhakar2007/dynamic-pricing-engine.git)
-cd dynamic-pricing-engine
