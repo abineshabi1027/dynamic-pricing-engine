@@ -19,3 +19,14 @@ This project demonstrates the end-to-end lifecycle of a machine learning model, 
 * **Frontend/Deployment:** Streamlit
 
 
+## 🏃‍♂️ Running the Project
+
+## Step 1: Train the Model Run the training script to generate the historical data and build the XGBoost model. This will output a pricing_model.pkl file.
+
+## Bash
+python train_model.py
+
+## Step 2: Launch the Dashboard Start the Streamlit application to view the live dynamic pricing simulation in your browser.
+
+## Bash
+streamlit run app.py
